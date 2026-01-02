@@ -21,8 +21,7 @@ and extract meaningful insights from the dataset.
 - Visual representation of insights
 
 ## Files Included
-- TASK_3_FUTURE_INTERNS.ipynb (Google Colab notebook)
-- Dataset (CSV file, if applicable)
+-Event_Feedback_Analysis_Task3_Future_Interns (1).ipynb
 
 ## Key Learnings
 - Handling real-world datasets
