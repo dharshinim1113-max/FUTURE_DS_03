@@ -29,5 +29,5 @@ and extract meaningful insights from the dataset.
 - Extracting insights from ratings and sentiment data
 
 ## Internship Details
-Internship Track: Data Science & Data Analytics-DS
-Company: FUTURE INTERNS
+-Internship Track: Data Science & Data Analytics-DS
+-Company: FUTURE INTERNS
