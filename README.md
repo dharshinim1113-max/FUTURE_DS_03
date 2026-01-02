@@ -65,9 +65,6 @@ through Google Forms and extract meaningful insights using Python.
 - Positive and negative sentiments were nearly equal
 - Overall feedback indicates good student satisfaction
 
-## Files Included
-- TASK_3_FUTURE_INTERNS.ipynb (Google Colab notebook)
-
 ## Internship Details
 Internship Track: Data Science & Data Analytics  
 Company: FUTURE INTERNS
