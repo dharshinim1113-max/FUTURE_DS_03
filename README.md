@@ -72,6 +72,4 @@ Internship Track: Data Science & Data Analytics
 Company: FUTURE INTERNS
 
 
-## Internship Details
-Internship Track: Data Science & Data Analytics  
-Company: FUTURE INTERNS
+
