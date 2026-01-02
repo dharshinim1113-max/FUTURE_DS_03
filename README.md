@@ -33,10 +33,7 @@ through Google Forms and extract meaningful insights using Python.
 - Overall feedback indicates good student satisfaction
 
 ## Files Included
--# Internship Task 3 – College Event Feedback Analysis
-
-This repository contains Task 3 completed as part of the 
-Data Science & Data Analytics Internship with FUTURE INTERNS.
+Event_Feedback_Analysis_Task3_Future_Interns (1).ipynb
 
 ## Project Overview
 The objective of this task is to analyze student feedback collected
